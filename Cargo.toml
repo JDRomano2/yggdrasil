@@ -2,6 +2,9 @@
 name = "yggdrasil"
 version = "0.1.0"
 authors = ["Joseph Romano <JDRomano2@gmail.com>"]
+description = "A high-performance toolkit for building and interacting with biomedical OWL ontologies."
 edition = "2018"
+license = "MIT"
+repository = "https://github.com/JDRomano2/yggdrasil.git"
 
 [dependencies]
