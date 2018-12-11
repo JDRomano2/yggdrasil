@@ -6,5 +6,12 @@ description = "A high-performance toolkit for building and interacting with biom
 edition = "2018"
 license = "MIT"
 repository = "https://github.com/JDRomano2/yggdrasil.git"
+keywords = [
+  "ontology",
+  "semantic",
+  "biomedical",
+  "knowledge",
+  "owl"
+]
 
 [dependencies]
